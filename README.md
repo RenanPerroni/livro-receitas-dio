@@ -3,4 +3,5 @@
 
 *bem-vindo ao livro*
  - strogonoff
- - pavê ou pa comê?
+ - pavÃª ou pa comÃª?
+ - bolo
